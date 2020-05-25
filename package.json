@@ -2,6 +2,7 @@
 	"name": "@ctx-core/chain",
 	"version": "4.1.18",
 	"description": "ctx-core chain",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
