@@ -1,5 +1,15 @@
 # @ctx-core/chain
 
+## 6.0.0
+
+### Major Changes
+
+- BREAKING CHANGE: remove **chain**or**fn,**chain**or**a
+
+### Minor Changes
+
+- \_\_chain=>\_chain_fn
+
 ## 5.0.6
 
 ### Patch Changes
