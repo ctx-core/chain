@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 7.0.1
+
+### Patch Changes
+
+- typescript: ^4.1.3 -> ^4.1.4
+
 ## 7.0.0
 
 ### Major Changes
