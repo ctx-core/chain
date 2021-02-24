@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 7.0.4
+
+### Patch Changes
+
+- version bump
+
 ## 7.0.3
 
 ### Patch Changes
