@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 7.0.13
+
+### Patch Changes
+
+- @ctx-core/object: 17.5.6
+
 ## 7.0.12
 
 ### Patch Changes
