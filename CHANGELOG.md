@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 7.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 7.0.24
 
 ### Patch Changes
