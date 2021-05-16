@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 7.1.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+
 ## 7.1.0
 
 ### Minor Changes
