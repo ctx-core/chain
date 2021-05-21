@@ -1,5 +1,5 @@
 import { isArray } from '@ctx-core/object'
-export function _chain<O extends unknown = unknown>(ctx:_chain_ctx_I, ...keys:_chain_key_type[]) {
+export function _chain<O extends unknown = unknown>(ctx:_chain_Ctx, ...keys:_chain_key_type[]) {
 	let head = ctx
 	for (let i = 0; i < keys.length; i++) {
 		let key = keys[i]
@@ -36,7 +36,7 @@ export function _chain<O extends unknown = unknown>(ctx:_chain_ctx_I, ...keys:_c
 		}
 	}
 }
-export interface _chain_ctx_I extends Record<string, any> {
+export interface _chain_Ctx extends Record<string, any> {
 }
 export type _chain_key_fn_type = (this:any, head:any)=>string
 export type _chain_key_type = string|string[]|number|_chain_key_fn_type
