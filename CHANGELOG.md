@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 7.2.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+
 ## 7.2.0
 
 ### Minor Changes
