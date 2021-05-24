@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 7.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 7.1.10
 
 ### Patch Changes
