@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 7.1.10
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+
 ## 7.1.9
 
 ### Patch Changes

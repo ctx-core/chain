@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/chain",
-	"version": "7.1.9",
+	"version": "7.1.10",
 	"description": "ctx-core chain",
 	"keywords": [
 		"ctx-core",
@@ -18,7 +18,7 @@
 	"author": "Brian Takita",
 	"main": "./src/index.js",
 	"module": "./src/index.js",
-	"types": "./src/index.ts",
+	"types": "./src/index.d.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"devDependencies": {
-		"@ctx-core/object": "workspace:^18.0.5",
+		"@ctx-core/object": "workspace:^18.0.6",
 		"typescript": "^4.2.4"
 	},
 	"publishConfig": {
