@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 7.1.8
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.1.7
 
 ### Patch Changes
