@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 7.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
 ## 7.2.1
 
 ### Patch Changes
