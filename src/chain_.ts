@@ -1,10 +1,10 @@
 import { isArray } from '@ctx-core/object'
-export function _chain<O extends unknown = unknown>(ctx:_chain_Ctx, ...keys:_chain_key_type[]) {
+export function chain_<O extends unknown = unknown>(ctx:chain__ctx_I, ...keys:chain_key__T[]) {
 	let head = ctx
 	for (let i = 0; i < keys.length; i++) {
 		let key = keys[i]
 		if (typeof key === 'function') {
-			process_key((key as _chain_key_fn_type).call(head, head))
+			process_key((key as chain_key__fn_T).call(head, head))
 			continue
 		}
 		process_key(key)
@@ -17,18 +17,18 @@ export function _chain<O extends unknown = unknown>(ctx:_chain_Ctx, ...keys:_cha
 			const in_key_a1 = key as string[]
 			const args = in_key_a1.slice(1)
 			key = in_key_a1[0]
-			const key_a1 = key.split('.')
-			const n1_key = key_a1.slice(0, key_a1.length - 1).join('.')
+			const key_ = key.split('.')
+			const n1_key = key_.slice(0, key_.length - 1).join('.')
 			if (n1_key) walk_key(n1_key)
-			key = key_a1[key_a1.length - 1]
+			key = key_[key_.length - 1]
 			head = head[key] && head[key](...args)
 		} else {
 			head = head[key as number]
 		}
 	}
 	function walk_key(key:string) {
-		const key_a1:string[] = key.split('.')
-		for (const key of key_a1) {
+		const key_:string[] = key.split('.')
+		for (const key of key_) {
 			head =
 				head == null
 				? head
@@ -36,7 +36,10 @@ export function _chain<O extends unknown = unknown>(ctx:_chain_Ctx, ...keys:_cha
 		}
 	}
 }
-export interface _chain_Ctx extends Record<string, any> {
+export interface chain__ctx_I extends Record<string, any> {
 }
-export type _chain_key_fn_type = (this:any, head:any)=>string
-export type _chain_key_type = string|string[]|number|_chain_key_fn_type
+export type chain_key__fn_T = (this:any, head:any)=>string
+export type chain_key__T = string|string[]|number|chain_key__fn_T
+export {
+	chain_ as _chain,
+}
