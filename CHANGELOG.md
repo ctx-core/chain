@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 8.0.3
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+
 ## 8.0.2
 
 ### Patch Changes
