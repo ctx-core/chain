@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 8.0.4
+
+### Patch Changes
+
+- version bump: run build
+
 ## 8.0.3
 
 ### Patch Changes
