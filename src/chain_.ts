@@ -14,9 +14,9 @@ export function chain_<O extends unknown = unknown>(ctx:chain__ctx_I, ...keys:ch
 		if (typeof key === 'string') {
 			walk_key(key)
 		} else if (isArray(key)) {
-			const in_key_a1 = key as string[]
-			const args = in_key_a1.slice(1)
-			key = in_key_a1[0]
+			const in_key_a = key as string[]
+			const args = in_key_a.slice(1)
+			key = in_key_a[0]
 			const key_ = key.split('.')
 			const n1_key = key_.slice(0, key_.length - 1).join('.')
 			if (n1_key) walk_key(n1_key)
