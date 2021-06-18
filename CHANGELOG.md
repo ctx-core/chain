@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 9.0.2
+
+### Patch Changes
+
+- typescript: ^4.3.3 -> ^4.3.4
+
 ## 9.0.1
 
 ### Patch Changes

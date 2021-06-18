@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/chain",
-	"version": "9.0.1",
+	"version": "9.0.2",
 	"description": "ctx-core chain",
 	"keywords": [
 		"ctx-core",
@@ -27,8 +27,8 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"devDependencies": {
-		"@ctx-core/object": "workspace:^20.0.2",
-		"typescript": "^4.3.3"
+		"@ctx-core/object": "workspace:^20.0.3",
+		"typescript": "^4.3.4"
 	},
 	"publishConfig": {
 		"access": "public",
