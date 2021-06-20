@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 9.0.6
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 9.0.5
 
 ### Patch Changes
