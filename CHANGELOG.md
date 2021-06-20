@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 9.0.5
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+
 ## 9.0.4
 
 ### Patch Changes
