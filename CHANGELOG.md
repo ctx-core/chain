@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 9.0.9
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+
 ## 9.0.8
 
 ### Patch Changes
