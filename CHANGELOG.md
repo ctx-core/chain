@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 9.0.10
+
+### Patch Changes
+
+- update dependencies
+
 ## 9.0.9
 
 ### Patch Changes
