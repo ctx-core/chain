@@ -1,4 +1,4 @@
-import { chain_, chain_key__T } from './chain_'
+import { chain_, chain_key__T } from './chain_.js'
 export function chain_2<O extends unknown = unknown>(obj: object, or: O) {
 	return (...keys: chain_key__T[]) => (chain_(obj, ...keys) || or) as O
 }
