@@ -1,5 +1,13 @@
 # @ctx-core/chain
 
+## 10.0.32
+
+### Patch Changes
+
+- \*.d.ts export
+- Updated dependencies
+  - @ctx-core/object@22.0.4
+
 ## 10.0.31
 
 ### Patch Changes
