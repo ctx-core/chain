@@ -1,5 +1,13 @@
 # @ctx-core/chain
 
+## 10.0.34
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/object@22.0.6
+
 ## 10.0.33
 
 ### Patch Changes
