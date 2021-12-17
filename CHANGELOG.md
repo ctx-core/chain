@@ -1,5 +1,13 @@
 # @ctx-core/chain
 
+## 10.0.35
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/object@22.0.7
+
 ## 10.0.34
 
 ### Patch Changes
