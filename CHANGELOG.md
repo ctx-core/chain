@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 10.0.37
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 10.0.36
 
 ### Patch Changes
