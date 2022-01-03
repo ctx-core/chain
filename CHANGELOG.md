@@ -1,5 +1,13 @@
 # @ctx-core/chain
 
+## 10.0.38
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/object@22.0.10
+
 ## 10.0.37
 
 ### Patch Changes
