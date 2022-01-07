@@ -1,5 +1,13 @@
 # @ctx-core/chain
 
+## 10.0.39
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+- Updated dependencies
+  - @ctx-core/object@22.0.11
+
 ## 10.0.38
 
 ### Patch Changes
