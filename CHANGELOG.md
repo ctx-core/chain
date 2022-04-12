@@ -1,5 +1,13 @@
 # @ctx-core/chain
 
+## 10.0.43
+
+### Patch Changes
+
+- package.json: exports: update
+- Updated dependencies
+  - @ctx-core/object@22.1.4
+
 ## 10.0.42
 
 ### Patch Changes
