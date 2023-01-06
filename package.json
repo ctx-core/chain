@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/chain",
-	"version": "10.0.49",
+	"version": "10.0.50",
 	"description": "ctx-core chain",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^22.4.1"
+		"@ctx-core/object": "^22.5.0"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.59",
