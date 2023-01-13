@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 10.0.61
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 10.0.60
 
 ### Patch Changes
