@@ -1,5 +1,13 @@
 # @ctx-core/chain
 
+## 10.0.64
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/object@24.1.1
+
 ## 10.0.63
 
 ### Patch Changes
