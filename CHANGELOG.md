@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 10.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 10.0.68
 
 ### Patch Changes
