@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 10.1.4
+
+### Patch Changes
+
+- @ctx-core/object: ^24.1.7 -> ^24.1.8
+
 ## 10.1.3
 
 ### Patch Changes
