@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/chain",
-	"version": "10.1.58",
+	"version": "10.1.59",
 	"description": "ctx-core chain",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^28.0.0"
+		"@ctx-core/object": "^28.0.1"
 	},
 	"devDependencies": {
 		"c8": "^7.14.0",
