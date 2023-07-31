@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 10.1.62
+
+### Patch Changes
+
+- @ctx-core/object: ^28.0.3 -> ^28.0.4
+
 ## 10.1.61
 
 ### Patch Changes
