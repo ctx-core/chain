@@ -1,5 +1,12 @@
 # @ctx-core/chain
 
+## 10.1.72
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/object@30.0.0
+
 ## 10.1.71
 
 ### Patch Changes
