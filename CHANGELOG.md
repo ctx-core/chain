@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 10.2.30
+
+### Patch Changes
+
+- ctx-core: ^4.6.2 -> ^4.6.3
+
 ## 10.2.29
 
 ### Patch Changes
