@@ -1,5 +1,13 @@
 # @ctx-core/chain
 
+## 10.2.156
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - ctx-core@6.6.1
+
 ## 10.2.155
 
 ### Patch Changes
