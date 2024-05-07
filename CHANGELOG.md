@@ -1,5 +1,11 @@
 # @ctx-core/chain
 
+## 10.2.181
+
+### Patch Changes
+
+- version bump
+
 ## 10.2.180
 
 ### Patch Changes
